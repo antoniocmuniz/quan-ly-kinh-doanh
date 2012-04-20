@@ -1,4 +1,4 @@
 ﻿1. ---Cảnh báo trước khi thêm, sửa---
-2. Thêm thời hạn sử dụng cho sản phẩm
-3. ---Các dữ liệu liên quan khi nhập đưa vào ngay lúc nhập (vd: khi nhập kho đưa chức năng nhập nhóm SP)---
-4. Thời hạn sử dụng của SP
+2. ---Các dữ liệu liên quan khi nhập đưa vào ngay lúc nhập (vd: khi nhập kho đưa chức năng nhập nhóm SP)---
+3. Thời hạn sử dụng của SP
+4. ---Chỉ khi click chọn vào ô check box thi dữ liệu mới được chọn---
