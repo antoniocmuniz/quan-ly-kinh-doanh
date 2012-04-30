@@ -1,0 +1,3 @@
+﻿1. Nhập chiết khấu khi Nhập kho SP cho tất cả nhóm KH
+2. Chiết khấu dùng để tính "Cộng dồn" hoặc "Trừ" cho lần mua hàng kế tiếp
+3. Phần Quản lý SP chỉ cần để xem thông tin nên sẽ bỏ chức năng Thêm, Xóa, Sửa
