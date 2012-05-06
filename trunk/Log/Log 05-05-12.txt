@@ -1,0 +1,2 @@
+﻿1. Thêm thông tin KH: CMND, ngày cấp, nơi cấp
+2. Thêm nhóm KH: Khách hàng Ngọc Đăng
