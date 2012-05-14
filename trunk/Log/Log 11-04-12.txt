@@ -1,4 +1,4 @@
 ﻿1. ---Đưa Nhóm SP lên trên Tên SP (Nhập kho)---
 2. ---Cảnh báo khi vừa nhập xong 1 SP rồi lại nhập tiếp mà không chỉnh sửa---
 3. ---Xóa, sửa thông tin nhập kho---
-4. Quản lý xuất xứ
+4. ---Quản lý xuất xứ---
