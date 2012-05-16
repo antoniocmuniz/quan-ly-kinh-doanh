@@ -1,0 +1,4 @@
+﻿1. ---Sắp xếp dữ liệu khi nhấn vào cột tương ứng---
+2. ---Nhập kho: Lọc theo Ngày - Tháng - Năm---
+3. ---Thanh toán: thêm Tiền thanh toán, Tiền hồi lại, quy đổi chiết khấu % thành tiền---
+4. ---Xuất thông tin sản phẩm ra Excel---
