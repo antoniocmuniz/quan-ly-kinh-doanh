@@ -1,5 +1,0 @@
-﻿1. Nhập mã SP khi thanh toán
-2. Thêm ngày sinh KH
-3. Quản lý KH theo mã KH
-4. Tùy chỉnh phần in mã SP sao cho vẫn làm việc khác được, 
-thêm Refresh cho in mã SP
