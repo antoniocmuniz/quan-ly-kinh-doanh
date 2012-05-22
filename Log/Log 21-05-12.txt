@@ -1,2 +1,2 @@
 ﻿1. ---Thông báo ngày sinh Khách Hàng trong 1 tuần kế tiếp---
-2. Báo sản phẩm vừa bán cần được đem từ kho ra để trưng bày
+2. ---Báo sản phẩm vừa bán cần được đem từ kho ra để trưng bày--- (trong mục "Sản Phẩm")
