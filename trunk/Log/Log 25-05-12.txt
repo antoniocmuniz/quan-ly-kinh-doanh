@@ -1,0 +1,2 @@
+﻿1. ---Quản lý công nợ---
+2. ---Cho phép cập nhật Mã nhóm SP -> Mã SP thay đổi tương ứng
