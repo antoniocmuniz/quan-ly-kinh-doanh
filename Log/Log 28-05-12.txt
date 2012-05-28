@@ -1,0 +1,8 @@
+﻿1. ---Chi tiết Sản phẩm---
+2. ---Chi tiết Kho hàng---
+3. Chi tiết Nhập kho
+4. Chi tiết User
+5. Chi tiết Khách hàng
+6. Chi tiết Thu - Chi (hóa đơn)
+7. Báo sản phẩm gần hết hạn
+***Xem chi tiết bằng cách click chuột phải vào dữ liệu trên danh sách
