@@ -1,0 +1,8 @@
+﻿1. ---Quản lý công nợ---
+2. ---Quản lý Kho hàng---
+3. ---Cho phép cập nhật Mã nhóm SP -> Mã SP thay đổi tương ứng---
+4. ---Thu - Chi hiện mặc định theo ngày---
+5. ---Khách hàng: thêm dữ liệu "Điện thoại di động"---
+6. ---Không cho Sửa "Số lượng" trong mục Nhập kho---
+7. ---Nhập kho: hiện "Ngày giờ" cập nhât ngoài bảng dữ liệu---
+***Thay đổi thông báo "Xuất kho" từ mục Sản phẩm -> Kho hàng
