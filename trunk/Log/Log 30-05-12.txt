@@ -1,2 +1,7 @@
-﻿1. ---Chức năng đăng nhập---
+﻿1. ---Chức năng Đăng nhập---
 2. ---Chức năng Khách hàng Trả Sản phẩm---
+3. Chức năng Xuất kho: thay đổi số lượng SP
+4. ---Chức năng Lợi nhuận---
+5. ---Phân quyền---
+6. ---Cho phép User thay đổi pass của chính mình---
+7. Avatar cho SP
