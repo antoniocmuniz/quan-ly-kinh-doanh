@@ -4,4 +4,4 @@
 4. ---Chức năng Lợi nhuận---
 5. ---Phân quyền---
 6. ---Cho phép User thay đổi pass của chính mình---
-7. Avatar cho SP
+7. ---Avatar cho SP---
