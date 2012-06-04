@@ -1,8 +1,8 @@
 ﻿1. ---Thêm logo---
-2. Công nợ: báo đỏ khi quá 1 tháng
+2. ---Công nợ: báo đỏ khi quá 1 tháng---
 3. ---Nhân viên: bỏ Xuất xứ và Lợi nhuận---
 4. ---Lợi nhuận: bỏ tỷ lệ % -> chuyển tiêu đề thành Thu - Chi---
 5. ---Tích lũy không âm---
-6. Cảnh báo khi đang chỉnh sửa thông tin mà chuyển sang mục khác
+6. ---Cảnh báo khi đang chỉnh sửa thông tin mà chuyển sang mục khác---
 7. ---Quản lý tồn kho (hàng sắp/đã hết hạn)---
-8. Thanh toán: thay đổi vị trí thông tin chung và danh mục hóa đơn
+8. ---Thanh toán: thay đổi vị trí thông tin chung và danh mục hóa đơn, font chữ danh mục hóa đơn lớn hơn---
