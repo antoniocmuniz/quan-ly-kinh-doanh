@@ -1,6 +1,6 @@
-﻿1. Thêm Sửa thông tin của người đang đăng nhập ở phía trên
-2. Thêm "Thứ ..." vào thông tin trên cùng
-3. Nhấn X thoát chương trình cần hỏi xác nhận
+﻿1. ---Thêm "Sửa" thông tin của người đang đăng nhập ở phía trên---
+2. ---Thêm "Thứ ..." vào thông tin trên cùng---
+3. ---Nhấn X thoát chương trình cần hỏi xác nhận---
 4. Thanh toán: Thiết kế lại + xác nhận trước khi chuyển sang mục khác
 5. Thay đổi logo
 6. Khách hàng: xem lịch sử mua hàng
