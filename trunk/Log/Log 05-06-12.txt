@@ -4,3 +4,8 @@
 4. ---Thanh toán: Thiết kế lại + xác nhận trước khi chuyển sang mục khác---
 5. ---Thay đổi logo---
 6. ---Khách hàng: xem lịch sử mua hàng---
+12-06-12
+7.--- quản lý thông tin theo ngày! ai làm gì trong chương trình! ???
+8.---thêm mục giảm giá trực tiếp - trong phần discount chọn giảm trực tiếp hay tích lũy!!!
+9. trong phần thanh toán đổi phần -tổng hóa đơn-thanh toán - sử dụng qua bên dấu X và V
+10.khi xem chi tiết công nợ tại phần ghi chú chữ che mất chữ T của tổng HĐ
