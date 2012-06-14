@@ -9,3 +9,5 @@
 8.---thêm mục giảm giá trực tiếp - trong phần discount chọn giảm trực tiếp hay tích lũy!!!
 9. trong phần thanh toán đổi phần -tổng hóa đơn-thanh toán - sử dụng qua bên dấu X và V
 10.khi xem chi tiết công nợ tại phần ghi chú chữ che mất chữ T của tổng HĐ
+11. kPhần thanh toán khi để thiếu nợ thì vẫn phải nhập tên khách hàng mới cho nhập!!!
+12. sữa công nợ bị báo lỗi
