@@ -6,3 +6,4 @@
 11. kPhần thanh toán khi để thiếu nợ thì vẫn phải nhập tên khách hàng mới cho nhập!!!
 12. sữa công nợ bị báo lỗi
 13. phần thu - chi thêm khách hàng---
+14. công nợ - khi khách mua 2 sản phẩm cùng loại muốn trả lại một thì không được!!!
