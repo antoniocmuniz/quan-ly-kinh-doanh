@@ -3,3 +3,4 @@
 3. Xem lịch sử những món hàng đã xuất kho
 4. Phần thu đã thanh toán trong hóa đơn nợ vẫn tính vào tổng thu của tháng
 5. Lợi nhuận tính sự chênh lệch giữa giá Thu - Chi trên từng món hàng bán được trong tháng
+6. Đổi Tích lũy -> Điểm: 1 điểm = 1000đ
