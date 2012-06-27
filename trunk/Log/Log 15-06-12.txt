@@ -1,9 +1,9 @@
 ﻿15-06-12
 1. quản lý thông tin theo ngày! ai làm gì trong chương trình! ???
-2. thêm mục giảm giá trực tiếp - trong phần discount chọn giảm trực tiếp hay tích lũy!!!
+2. ---thêm mục giảm giá trực tiếp - trong phần discount chọn giảm trực tiếp hay tích lũy!!!---
 3. ---trong phần thanh toán đổi phần -tổng hóa đơn-thanh toán - sử dụng qua bên dấu X và V---
 4. ---khi xem chi tiết công nợ tại phần ghi chú chữ che mất chữ T của tổng HĐ---
-5. Phần thanh toán khi để thiếu nợ thì vẫn phải nhập tên khách hàng mới cho nhập!!!
-6. sữa công nợ bị báo lỗi
+5. ---Phần thanh toán khi để thiếu nợ thì vẫn phải nhập tên khách hàng mới cho nhập!!!---
+6. ---sữa công nợ bị báo lỗi---
 7. phần thu - chi thêm khách hàng
 8. công nợ - khi khách mua 2 sản phẩm cùng loại muốn trả lại một thì không được!!!
