@@ -1,3 +1,5 @@
 ﻿1. Công nợ: trả từng sản phẩm theo số lượng
 2. Công nợ: thanh toán hoàn toàn các hóa đơn được chọn
 3. Thu: hủy hóa đơn cũ chuyển sang hóa đơn mới để có thể chỉnh sửa thông tin (số lượng SP)
+4. Hóa đơn công nợ vẫn có chiết khấu
+5. Thanh toan: nhấn Enter tại Chi tiết -> nhập sản phẩm vào danh mục
