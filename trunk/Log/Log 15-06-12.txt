@@ -5,5 +5,5 @@
 4. ---khi xem chi tiết công nợ tại phần ghi chú chữ che mất chữ T của tổng HĐ---
 5. ---Phần thanh toán khi để thiếu nợ thì vẫn phải nhập tên khách hàng mới cho nhập!!!---
 6. ---sữa công nợ bị báo lỗi---
-7. phần thu - chi thêm khách hàng
+7. ---phần thu - chi thêm khách hàng---
 8. công nợ - khi khách mua 2 sản phẩm cùng loại muốn trả lại một thì không được!!!
