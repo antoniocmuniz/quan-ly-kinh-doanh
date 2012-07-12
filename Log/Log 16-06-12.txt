@@ -2,4 +2,4 @@
 1. vào xem chi tiết công nợ có thể trả từng sản phẩm.
 2. ---Tổng công nợ của một khách hàng nếu họ mua thiếu nhiều lần.---
 3. ---Đưa công nợ vào lịch sử mua hàng.---
-4. Bán sản phẩm A rồi ! khách muốn mua thêm 1 sản phẩm A nữa thì không nhập thêm được. phải xóa rồi nhập lại thêm số lượng. Có thể làm cho nhập liên tiếp cùng một sản phẩm cho tới khi hết số lượng  trong kho!!!!
+4. ---Bán sản phẩm A rồi ! khách muốn mua thêm 1 sản phẩm A nữa thì không nhập thêm được. phải xóa rồi nhập lại thêm số lượng. Có thể làm cho nhập liên tiếp cùng một sản phẩm cho tới khi hết số lượng  trong kho!!!!---
