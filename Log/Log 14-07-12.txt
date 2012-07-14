@@ -1,0 +1,2 @@
+﻿1. Xuất xứ: thống kê doanh thu của từng nơi
+2. Quản lý chiết khấu mặc định theo nhóm khách hàng
