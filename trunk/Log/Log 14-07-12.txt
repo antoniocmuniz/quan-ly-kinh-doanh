@@ -1,4 +1,4 @@
-﻿1. Xuất xứ: thống kê doanh thu của từng nơi
+﻿1. ---Xuất xứ: thống kê doanh thu của từng nơi---
 2. Quản lý chiết khấu mặc định theo nhóm khách hàng
-3. Thu: thêm thông tin thanh toán + điểm sử dụng
-4. Kho hàng: xuất thông tin ra Excel có giá bán
+3. ---Thu: thêm thông tin thanh toán + điểm sử dụng---
+4. ---Kho hàng: xuất thông tin ra Excel có giá bán---
