@@ -1,0 +1,4 @@
+﻿17--6--12
+1. Kết nối giữa phần khách hàng và thanh toán trong phần chi tiết
+2. có thể tìm kím khách hàng trong phần thanh toán???
+3. khách trả sản phẩm lại, sản phẩm vào kho mà tiền không trừ? khách lấy mặt hàng khác lại tiếp tục cộng tiền vào sẽ sai lệch số tiền thực tế và trong máy.
