@@ -1,0 +1,2 @@
+﻿1. ---Sửa lỗi không xóa dữ liệu---
+2. ---Backup + Restore toàn bộ dữ liệu---
