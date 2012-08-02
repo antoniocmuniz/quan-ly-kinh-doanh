@@ -2,3 +2,4 @@
 2. ---Backup + Restore toàn bộ dữ liệu---
 3. ---Nhập kho: xem thông tin 3 SP mới nhất vừa nhập---
 4. ---Nhập kho: xem chi tiết thông tin---
+5. ---Thu: xuất hóa đơn ra Excel trong phần xem chi tiết thông tin---
