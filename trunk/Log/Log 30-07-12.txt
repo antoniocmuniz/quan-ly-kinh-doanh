@@ -1,3 +1,4 @@
 ﻿1. ---Sửa lỗi không xóa dữ liệu---
 2. ---Backup + Restore toàn bộ dữ liệu---
-3. Nhập kho: xem thông tin 3 SP mới nhất vừa nhập
+3. ---Nhập kho: xem thông tin 3 SP mới nhất vừa nhập---
+4. ---Nhập kho: xem chi tiết thông tin---
