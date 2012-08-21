@@ -1,0 +1,3 @@
+﻿1. Kho hàng: không xuất excel được
+2. Thanh toán: sau khi nhập mã SP rồi nhấn lên - xuống thì mã không thay đổi
+3. Nhập kho: mất dữ liệu
