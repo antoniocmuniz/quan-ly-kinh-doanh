@@ -1,4 +1,4 @@
-﻿1. Nhập kho: thêm chức năng "Xuất kho" để trả sp hoặc bỏ sp tồn sai với thực tế
-2. Thống kê kho: thống kê dữ liệu về tình trạng sp đang tồn trong kho gồm: sl, tiền bán được, tiền còn lại, giá gốc, ...
+﻿1. ---Nhập kho: thêm chức năng "Xuất kho" để trả sp hoặc bỏ sp tồn sai với thực tế---
+2. ---Thống kê kho: thống kê dữ liệu về tình trạng sp đang tồn trong kho gồm: sl, tiền bán được, tiền còn lại, giá gốc, ...---
 3. Khi bán sp với hóa đơn nợ hoặc trả nợ thì số tiền nhập vào không được tính vào hóa đơn hôm đó,
 ngày hôm khác trả hết hóa đơn thì tổng tiền được tính vào hóa đơn thu của ngày lập?
