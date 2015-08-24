@@ -1,0 +1,1 @@
+Help to manage a small store
